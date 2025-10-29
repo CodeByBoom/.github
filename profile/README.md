@@ -211,7 +211,5 @@ local CodeByBoom = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:2563eb,100:3b82f6&height=120&section=footer"/>
 
-**Made with 💙 by the CodeByBoom Team**
-
 </div>
 
